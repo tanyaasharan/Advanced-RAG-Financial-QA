@@ -27,6 +27,7 @@ The RAG system is evaluated against a non-retrieval LLM baseline. Performance me
 <img width="350" alt="Screenshot 2025-07-01 at 1 44 58 AM" src="https://github.com/user-attachments/assets/d77aaa6d-e081-4a7c-926c-69cae071078f" />
 
 ### Use Cases
+
 - Interpreting complex financial policy documents
 - Supporting SME loan eligibility assessments
 - Assisting compliance teams with FCA regulatory guidelines
